@@ -1,3 +1,5 @@
+#pip install PyQt5
+#pip install PyQtWebEngine
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 from PyQt5 import QtGui
